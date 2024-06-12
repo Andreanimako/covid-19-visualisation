@@ -1,2 +1,2 @@
-# covid-19-visualisation
+# covid-19-visualization
 project 3
