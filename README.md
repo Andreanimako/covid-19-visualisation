@@ -43,7 +43,7 @@ These visualizations provide a detailed and interactive method to explore and un
 The dataset, **MD COVID-19 - MASTER Case Tracker**, was provided by the Maryland Department of Health Prevention and Health Promotion Administration (MDH PHPA), Chesapeake Regional Information System for our Patients (CRISP), and Maryland Department of Health Vital Statistics Administration (MDH VSA). It includes cases, tests, positivity rates, hospitalizations, and confirmed and probable deaths for COVID-19 in Maryland. The data has been housed in a database (SQL, MongoDB, SQLite, etc.) and cleaned for analysis.
 
 ### Data Source
-**[MD COVID-19 - MASTER Case Tracker]**(https://opendata.maryland.gov/Health-and-Human-Services/MD-COVID-19-MASTER-Case-Tracker/mgd3-qk8t/about_data) from the Maryland Department of Health Prevention and Health Promotion Administration (MDH PHPA), Chesapeake Regional Information System for our Patients (CRISP), and Maryland Department of Health Vital Statistics Administration (MDH VSA).
+Data retrieved from MD COVID-19 MASTER Case Tracker, available at Maryland's Open Data portal: *[https://opendata.maryland.gov/Health-and-Human-Services/MD-COVID-19-MASTER-Case-Tracker/mgd3-qk8t/about_data](https://opendata.maryland.gov/Health-and-Human-Services/MD-COVID-19-MASTER-Case-Tracker/mgd3-qk8t/about_data).*
 
 ### References for any Code Derived from External Sources
 The visualization application for the project was built using similar codes from the dash bootstrap components, derived from the **COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University**.
@@ -62,7 +62,10 @@ The visualization application for the project was built using similar codes from
 Run the Dash app and open a web browser to navigate to interact with the visualizations.
 
 ## ETHICAL CONSIDERATIONS
-Throughout the development of this project, we made efforts to ensure the ethical use of data. We sourced our data from reputable and publicly available sources, such as the CDC COVID-19 Case Surveillance dataset. We ensured that the data was used within the bounds of fair use and adhered to all relevant licenses and terms of use. Furthermore, we anonymized any sensitive information to protect individual privacy.
+Efforts were made to ensure the ethical use of data throughout the development of this project and:
+- Data was sourced from reputable and publicly available sources, such as the CDC COVID-19 Case Surveillance dataset. 
+- The data was used within the bounds of fair use and in adherence to all relevant licenses and terms of use. 
+- Additionally, any sensitive information was anonymized to protect individual privacy.
 
 ## ACKNOWLEDGEMENTS
 Gratitude is extended to the following organizations for their support of the Group Project's COVID-19 mapping and visualization efforts:
@@ -85,7 +88,7 @@ An agile project management approach was followed by the group members to ensure
 - Jessica Snowden
 - Kevin Ngala
 
-## CONCLUSION
+## DISCUSSION
 It is intended that this project provides valuable insights into the impact of COVID-19 in Maryland and aids in making informed public health decisions.
 
 © 2024 George Washington University Data Analysis Bootcamp
