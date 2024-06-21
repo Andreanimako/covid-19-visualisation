@@ -51,8 +51,11 @@ The visualization application for the project was built using similar codes from
 ## PROJECT USAGE AND INTERACTION GUIDE
 1. **Cloning the Repository:**
    - Clone the repository from GitHub using the command:
-     ```git clone https://github.com/Andreanimako/covid-19-visualization.git
-     ```
+Clone the repository from GitHub using the command:
+   ```
+     [git clone https://github.com/Andreanimako/covid-19-visualization.git]
+   ```
+     
 2. **Setting Up the Environment:**
    - Navigate to the project directory.
    - Create and activate a virtual environment.
@@ -75,12 +78,11 @@ Gratitude is extended to the following organizations for their support of the Gr
 
 ## TEAM COLLABORATING AND MILESTONES
 An agile project management approach was followed by the group members to ensure smooth collaboration and timely completion of tasks. Key milestones included:
-1. **Project Ideation**
-2. **Data Fetching/API Integration**
-3. **Data Analysis**
-4. **Testing**
-5. **Creating Documentation**
-6. **Creating the Presentation**
+- Project Ideation
+- Data Fetching
+- Data Analysis
+- Creating Documentation
+- Creating the Presentation
 
 ## GROUP MEMBERS
 - Andrea Nimako
@@ -91,4 +93,5 @@ An agile project management approach was followed by the group members to ensure
 ## DISCUSSION
 It is intended that this project provides valuable insights into the impact of COVID-19 in Maryland and aids in making informed public health decisions.
 
+---
 © 2024 George Washington University Data Analysis Bootcamp
