@@ -43,7 +43,7 @@ These visualizations provide a detailed and interactive method to explore and un
 The dataset, **MD COVID-19 - MASTER Case Tracker**, was provided by the Maryland Department of Health Prevention and Health Promotion Administration (MDH PHPA), Chesapeake Regional Information System for our Patients (CRISP), and Maryland Department of Health Vital Statistics Administration (MDH VSA). It includes cases, tests, positivity rates, hospitalizations, and confirmed and probable deaths for COVID-19 in Maryland. The data has been housed in a database (SQL, MongoDB, SQLite, etc.) and cleaned for analysis.
 
 ### Data Source
-- [MD COVID-19 - MASTER Case Tracker](https://opendata.maryland.gov/Health-and-Human-Services/MD-COVID-19-MASTER-Case-Tracker/mgd3-qk8t/about_data)
+**[MD COVID-19 - MASTER Case Tracker]**(https://opendata.maryland.gov/Health-and-Human-Services/MD-COVID-19-MASTER-Case-Tracker/mgd3-qk8t/about_data) from the Maryland Department of Health Prevention and Health Promotion Administration (MDH PHPA), Chesapeake Regional Information System for our Patients (CRISP), and Maryland Department of Health Vital Statistics Administration (MDH VSA).
 
 ### References for any Code Derived from External Sources
 The visualization application for the project was built using similar codes from the dash bootstrap components, derived from the **COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University**.
