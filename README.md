@@ -40,7 +40,7 @@ These visualizations provide a detailed and interactive method to explore and un
 ## DATA AND DELIVERY
 
 ### Data Cleanup and Analysis
-The dataset, **MD COVID-19 - MASTER Case Tracker**, was provided by the Maryland Department of Health Prevention and Health Promotion Administration (MDH PHPA), Chesapeake Regional Information System for our Patients (CRISP), and Maryland Department of Health Vital Statistics Administration (MDH VSA). It includes cases, tests, positivity rates, hospitalizations, and confirmed and probable deaths for COVID-19 in Maryland. The data has been housed in a database (SQL, MongoDB, SQLite, etc.) and cleaned for analysis.
+The dataset, **MD COVID-19 - MASTER Case Tracker**, was provided by the Maryland Department of Health Prevention and Health Promotion Administration (MDH PHPA), Chesapeake Regional Information System for our Patients (CRISP), and Maryland Department of Health Vital Statistics Administration (MDH VSA). It includes cases, tests, positivity rates, hospitalizations, and confirmed and probable deaths for COVID-19 in Maryland. The data has been cleaned,reorganised and housed in a postgreSQL database (https://github.com/Andreanimako/covid-19-visualization/blob/main/Maryland%20COVID-19%20db.sql) for analysis.
 
 ### Data Source
 Data retrieved from MD COVID-19 MASTER Case Tracker, available at Maryland's Open Data portal: *[https://opendata.maryland.gov/Health-and-Human-Services/MD-COVID-19-MASTER-Case-Tracker/mgd3-qk8t/about_data](https://opendata.maryland.gov/Health-and-Human-Services/MD-COVID-19-MASTER-Case-Tracker/mgd3-qk8t/about_data).*
@@ -63,11 +63,13 @@ Clone the repository from GitHub using the command:
 
 3. **Running the Application:**
 Run the Dash app and open a web browser to navigate to interact with the visualizations.
+Link to interactive website deployed through Gitpages - https://andreanimako.github.io/covid-19-visualization/
 
 ## ETHICAL CONSIDERATIONS
 Efforts were made to ensure the ethical use of data throughout the development of this project and:
 - Data was sourced from reputable and publicly available sources, such as the CDC COVID-19 Case Surveillance dataset. 
-- The data was used within the bounds of fair use and in adherence to all relevant licenses and terms of use. 
+- The data was used within the bounds of fair use and in adherence to all relevant licenses and terms of use.
+- No personally Identifiable information was included.
 - Additionally, any sensitive information was anonymized to protect individual privacy.
 
 ## ACKNOWLEDGEMENTS
