@@ -30,6 +30,9 @@ These visualizations provide a detailed and interactive method to explore and un
 
 6. **Cases and Deaths by Age Group or Age Range**
    - Breaks down the number of cases and deaths by different age groups, highlighting the demographic impact of the virus.
+  
+7. **Cases and Deaths by Race and Gender**
+   - Depicits trend/impact of COVID-19 by different races and gender.
 
 ### Different interactive features include:
 - An overall view of the Maryland State
