@@ -1,7 +1,7 @@
 # PROJECT 3: COVID-19 VISUALIZATION
 
 ## OVERVIEW
-This project was undertaken as part of the George Washington University Data Analysis Bootcamp, with a focus on the visualization track within the 'Healthcare' field related to COVID-19. The impact of COVID-19 within the state of Maryland and its counties was analyzed and visualized. The objective was to provide clear, actionable insights through various data visualizations to help understand the spread and impact of the virus within this specific region.
+This project was undertaken as part of the George Washington University Data Analysis Bootcamp, with a focus on the visualization track within the 'Healthcare' field related to COVID-19. The trends of COVID-19 within the state of Maryland and its counties was analyzed and visualized. The objective was to provide clear, actionable insights through various data visualizations to help understand the trends and patterns of spread of the virus within this specific region.
 
 ## SCOPE
 The project's scope is limited to the state of Maryland and its counties. Analysis and visualizations focus solely on this geographic area for relevant insights.
