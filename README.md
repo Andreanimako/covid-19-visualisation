@@ -22,16 +22,13 @@ These visualizations provide a detailed and interactive method to explore and un
 3. **COVID-19 Related Hospitalization**
    - Shows the number of hospitalizations due to COVID-19 across Maryland.
 
-4. **COVID-19 Positivity Rate**
-   - Visualizes the rate of positive COVID-19 tests in comparison to the total tests conducted.
-
-5. **Totals by Date of Death**
+4. **Totals by Date of Death**
    - Presents the total number of deaths over time, providing insights into mortality trends.
 
-6. **Cases and Deaths by Age Group or Age Range**
+5. **Cases and Deaths by Age Group or Age Range**
    - Breaks down the number of cases and deaths by different age groups, highlighting the demographic impact of the virus.
   
-7. **Cases and Deaths by Race and Gender**
+6. **Cases and Deaths by Race and Gender**
    - Depicits trend/impact of COVID-19 by different races and gender.
 
 ### Different interactive features include:
@@ -67,6 +64,15 @@ Clone the repository from GitHub using the command:
 3. **Running the Application:**
 Run the Dash app and open a web browser to navigate to interact with the visualizations.
 Link to interactive website deployed through Gitpages - https://andreanimako.github.io/covid-19-visualization/
+
+4. **Libraries**
+The project utilized the following libraries to analyze and visualize the COVID-19 data:
+- Pandas: Used for data manipulation and analysis. It helped us clean and structure the data efficiently.
+- Numpy: Used for numerical operations and handling large datasets. It provided support for arrays and mathematical functions.
+- Matplotlib: Employed for creating static, animated, and interactive visualizations. It enabled us to plot various charts and graphs.
+- Seaborn: Built on top of Matplotlib, Seaborn was used for creating more attractive and informative statistical graphics.
+- ffmpeg: Used for processing multimedia files. It helped in converting and streaming our visualizations.
+- bar chart race: Utilized to create dynamic bar chart races, showcasing the progression of COVID-19 cases over time.
 
 ## ETHICAL CONSIDERATIONS
 Efforts were made to ensure the ethical use of data throughout the development of this project and:
