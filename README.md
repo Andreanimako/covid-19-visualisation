@@ -92,7 +92,6 @@ An agile project management approach was followed by the group members to ensure
 ## GROUP MEMBERS
 - Andrea Nimako
 - Lynda Sempele
-- Jessica Snowden
 - Kevin Ngala
 
 ## DISCUSSION
